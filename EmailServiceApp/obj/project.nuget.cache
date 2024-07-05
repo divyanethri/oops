@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "89JRvwWNlIpfqMkpjqr0CoPT767hwsAbLSEwM9+Rp2gZvlZt3oZhmLI+sCbmqHM5omlc4M47LQERvNPn/Ig+Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Core\\Projects\\EmailServiceApp\\EmailServiceApp\\EmailServiceApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\divya.n\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\divya.n\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

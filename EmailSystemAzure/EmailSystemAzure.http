@@ -1,0 +1,6 @@
+@EmailSystemAzure_HostAddress = http://localhost:5076
+
+GET {{EmailSystemAzure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
